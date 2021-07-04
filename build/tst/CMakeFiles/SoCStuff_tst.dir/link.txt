@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/SoCStuff_tst.dir/Formula-test.cpp.o CMakeFiles/SoCStuff_tst.dir/main.cpp.o  -o SoCStuff_tst  ../src/libSoCStuff_lib.a ../lib/libgtestd.a -lpthread 
