@@ -1,7 +1,8 @@
-Project Aim-
-Create a math library similar to numPy in C++.
 
 We were given source code at the beginning of the project by our mentor.
+
+Project Aim-
+Create a math library similar to numPy in C++.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 What Ive done so Far-
 
