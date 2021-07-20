@@ -5,7 +5,7 @@ We were given source code at the beginning of the project by our mentor.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 What Ive done so Far-
 
-March and april beginning- Learned basic DSA concepts and linear algebra. Built a gauss elimination function for inverse of matrix. Solved CP problems on various platfor such as codeforces, SPOJ,etc.
+March and april beginning- Learned basic DSA concepts and linear algebra. Built a gauss elimination function for inverse of matrix. Solved CP problems given by mentor on various platforms such as codeforces, SPOJ,etc.
 
 April beginning to may- Learned Gitflow through practice and did many CP problems on various platforms. Watched videos on linear algebra and dynamic programming.
 
