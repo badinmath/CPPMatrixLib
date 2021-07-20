@@ -19,7 +19,7 @@ The Big Picture:
 - Currently work is under way, and a raw polynomial library is ready. It supports FFT and multimod NTT. Once it's style is improved, it will be added here.
 - Work is also underway for a primes library, supporting prime tests and factorisation
 
-### Changes Proposed:
+Changes Done-
 * Add iterators (row and column wise) so as to increase compatibility with STL algorithms (search & sort)
 * Add a function to calculate the Eigen values and Eigen vectors of a matrix
 * Add LU & SVD functions that can help calculate the inverse of a matrix
