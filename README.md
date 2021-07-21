@@ -10,6 +10,6 @@ March and april beginning- Learned basic DSA concepts and linear algebra. Built 
 
 April beginning to may- Learned Gitflow through practice and did many CP problems on various platforms. Watched videos on linear algebra and dynamic programming.
 
-June-Learned and applied unit testing to the matrix library(use CMake and Gtest). Helped implement primes library with a peer.
+June-Learned and applied unit testing to the matrix library(using CMake and Gtest). Helped implement primes library with a peer.
 
 July- Created a working directory for the project and learned some number theory. Resolved merge conflicts and integrated code.
