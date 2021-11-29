@@ -1,8 +1,10 @@
-*CPPMatrixLib*
+CPPMatrixLib
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is my Seasons of Code Project done under WnCC, IIT Bombay with mentor Laxman Desai and group members Sanskar Narlawar,Kadoo Aditya Anil, Parth Dwivedi, Ashish Patel. 
 
 demo- https://drive.google.com/file/d/1MQLUz5IxDMuVSVdxKMe_9gvbrJEhQ5g7/view?usp=sharing
+
 presentation- https://docs.google.com/presentation/d/1bnpKZ4XjAzCQI51iJJi7U0sA7deHdJNHIHx0QsNGkpc/edit#slide=id.gb82dc7e3bf_1_0
 
 We were given source code at the beginning of the project by our mentor.
