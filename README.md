@@ -1,8 +1,11 @@
+*CPPMatrixLib*
+
+This is my Seasons of Code Project done under WnCC, IIT Bombay with mentor Laxman Desai and group members Sanskar Narlawar,Kadoo Aditya Anil, Parth Dwivedi, Ashish Patel. 
 
 We were given source code at the beginning of the project by our mentor.
 
 Project Aim-
-Create a math library similar to numPy in C++.
+Create a math library similar to numPy in C++ CPPMatrixLib.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 What Ive done so Far-
 
